@@ -1,2 +1,2 @@
 # computer-vision
-image classification, object detection, tensorflow
+image classification using cifar dataset
