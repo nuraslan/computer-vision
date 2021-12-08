@@ -1,2 +1,2 @@
 # computer-vision
-image classification using cifar dataset
+image classification techniques with convnn
